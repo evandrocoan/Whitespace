@@ -58,6 +58,7 @@ Whitespace helps in keeping your code clean by providing more features in removi
 search for **`Whitespace`** and press <kbd>Enter</kbd>
 
 See also:
+
 1. [ITE - Integrated Toolset Environment](https://github.com/evandrocoan/ITE)
 1. [Package control docs](https://packagecontrol.io/docs/usage) for details.
 
